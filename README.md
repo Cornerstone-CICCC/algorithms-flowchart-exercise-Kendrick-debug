@@ -35,6 +35,7 @@ Pseudocode:
 - Print A
 
 ### _Answer_
+![Problem 2](/flowchats/exercise%202.png)
 
 ## Exercise 3
 
