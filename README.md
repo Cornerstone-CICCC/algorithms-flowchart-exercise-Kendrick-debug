@@ -44,7 +44,7 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 > Given that the three numbers are not equal to each other)
 
 ### _Answer_
-
+![Problem 3](/flowchats/exercise%203.png)
 ## Exercise 4
 
 Write an algorithm and draw a flowchart to check the three number inputs whether a triangle is possible or not.
