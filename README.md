@@ -68,4 +68,5 @@ Display the grades as per the table given below:
 | Less than 40%                 | No Grade |
 
 ### _Answer_
+![Problem 5](/flowchats/exercise%205.png)
 
